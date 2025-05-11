@@ -341,6 +341,6 @@ API 未开启返回值
 
 GNU General Public License v3.0
 
-[![image](https://support.nodeget.com/page/promotion?id=The%20status%20is%20waiting.)](https://yxvm.com/)
+[![image](https://github.com/user-attachments/assets/1bbd6493-d549-4234-bd27-e74e6960e1f6)](https://yxvm.com/)
 
 [NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
