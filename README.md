@@ -340,5 +340,7 @@ API 未开启返回值
 ## LICENSE
 
 GNU General Public License v3.0
-[![image](iframe组件截图图片链接)](https://yxvm.com/)
+
+[![image]([iframe组件截图图片链接](https://support.nodeget.com/page/promotion?id=wating))](https://yxvm.com/)
+
 [NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
