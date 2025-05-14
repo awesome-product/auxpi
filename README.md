@@ -341,6 +341,12 @@ API 未开启返回值
 
 GNU General Public License v3.0
 
+###  鸣谢
+### VTEXS
+
+[VTEXS](https://vtexs.com/) is a provider of high-performance cloud infrastructure and VPS hosting services, emphasizing guaranteed resources, 24/7 expert support, and a 99.99% uptime SLA. They support open-source projects by offering hosting resources,  to approved contributors.
+
+
 [![image](https://github.com/user-attachments/assets/1bbd6493-d549-4234-bd27-e74e6960e1f6)](https://yxvm.com/)
 
 [NodeSupport](https://github.com/NodeSeekDev/NodeSupport)赞助了本项目
